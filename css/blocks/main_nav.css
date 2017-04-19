@@ -1,0 +1,68 @@
+.main_nav-list {
+	margin: 0;
+	padding: 23px 0;
+	list-style: none;
+}
+
+.main_nav-list:first-child {
+	border-bottom: 1px solid #353535;
+}
+
+.main_nav-list--info .main_nav-link {
+	color: #959595;
+}
+
+.main_nav-item {
+	margin-bottom: 13px;
+}
+
+.main_nav-item:last-child {
+	margin-bottom: 0;
+}
+
+.main_nav-link {
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.main_nav-link:hover {
+	color: #cc3333;
+}
+
+.main_nav-link--active {
+	color: #cc3333;
+}
+
+.main_nav-search_block {
+	position: relative;
+	width: 100%;
+}
+
+.main_nav-search {
+	width: 138px;
+	padding: 7px 23px 7px 7px;
+
+	background-color: inherit;
+	border: 0;
+	border: 1px solid #353535;
+	border-radius: 3px;
+	outline: 0;
+
+	color: #959595;
+	box-sizing: border-box;
+}
+
+.main_nav-search-button {
+	position: absolute;
+	right: 1px;
+	top: 50%;
+	width: 23px;
+	height: 21px;
+
+	background-color: transparent;
+	background-image: url("../../img/loupe.png");
+	border: 0;
+	outline: 0;
+	transform: translateY(-50%);
+}

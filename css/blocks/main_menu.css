@@ -1,0 +1,12 @@
+.main_menu {
+	min-width: 208px;
+	background-color: #222222;
+}
+
+.main_menu-wrapper {
+	padding: 14px 19px;
+}
+
+.main_menu-logo {
+	margin-bottom: 10px;
+}
