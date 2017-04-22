@@ -1,0 +1,25 @@
+.footer_menu-list {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: center;
+}
+
+.footer_menu-item {
+	display: inline-block;
+	margin-right: 35px;
+}
+
+.footer_menu-item:last-child {
+	margin-right: 0;
+}
+
+.footer_menu-link {
+	font-weight: bold;
+	color: #959595;
+	text-decoration: none;
+}
+
+.footer_menu-link:hover {
+	opacity: 0.75;
+}

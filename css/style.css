@@ -8,4 +8,22 @@
 
 @import url("blocks/main_nav.css");
 
-@import url("blocks/main_content.css");
+@import url("blocks/content.css");
+
+@import url("blocks/header.css");
+
+@import url("blocks/user_block.css");
+
+@import url("blocks/main_page.css");
+
+@import url("blocks/main_news.css");
+
+@import url("blocks/share_group.css");
+
+@import url("blocks/news.css");
+
+@import url("blocks/footer_page.css");
+
+@import url("blocks/footer_menu.css");
+
+@import url("blocks/copyright.css");

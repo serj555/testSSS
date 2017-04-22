@@ -17,7 +17,7 @@
 	url("../../fonts/PTSansBold/PTSansBold.woff") format("woff"),
 	url("../../fonts/PTSansBold/PTSansBold.ttf") format("truetype");
 	font-style: normal;
-	font-weight: normal;
+	font-weight: bold;
 }
 
 body {

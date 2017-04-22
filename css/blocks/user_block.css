@@ -1,0 +1,9 @@
+.user_block-link {
+	color: #959595;
+	border-bottom: 1px dotted #959595;
+	cursor: pointer;
+}
+
+.user_block-link:hover {
+	border-bottom: 0;
+}

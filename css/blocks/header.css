@@ -1,0 +1,13 @@
+.header {
+	border-bottom: 4px solid #222222;
+}
+
+.header-wrapper {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+}
+
+.header-name {
+	color: #959595;
+}

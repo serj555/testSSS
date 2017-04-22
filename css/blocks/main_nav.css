@@ -40,8 +40,8 @@
 }
 
 .main_nav-search {
-	width: 138px;
-	padding: 7px 23px 7px 7px;
+	width: 80%;
+	padding: 5% 23px 5% 5%;
 
 	background-color: inherit;
 	border: 0;
@@ -55,7 +55,7 @@
 
 .main_nav-search-button {
 	position: absolute;
-	right: 1px;
+	right: 5%;
 	top: 50%;
 	width: 23px;
 	height: 21px;
