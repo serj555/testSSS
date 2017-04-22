@@ -1,6 +1,7 @@
 .main_nav-list {
 	margin: 0;
 	padding: 23px 0;
+	text-align: left;
 	list-style: none;
 }
 
@@ -42,15 +43,12 @@
 .main_nav-search {
 	width: 80%;
 	padding: 5% 23px 5% 5%;
-
 	background-color: inherit;
 	border: 0;
 	border: 1px solid #353535;
 	border-radius: 3px;
 	outline: 0;
-
 	color: #959595;
-	box-sizing: border-box;
 }
 
 .main_nav-search-button {

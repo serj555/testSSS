@@ -1,12 +1,15 @@
 .main_menu {
-	width: 208px;
+	width: 18%;
+	min-width: 180px;
 	background-color: #222222;
 }
 
 .main_menu-wrapper {
 	padding: 14px 19px;
+	text-align: center;
 }
 
 .main_menu-logo {
 	margin-bottom: 10px;
+	text-align: center;
 }
